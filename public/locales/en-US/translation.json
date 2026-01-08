@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Privacy Center",
+    "menu_1": {
+      "title": "Privacy Center Home"
+    },
+    "menu_2": {
+      "title": "Search"
+    },
+    "menu_3": {
+      "title": "Common Privacy Settings"
+    },
+    "menu_4": {
+      "title": "Privacy Topics"
+    },
+    "menu_5": {
+      "title": "More Privacy Resources"
+    },
+    "menu_6": {
+      "title": "Privacy Policy",
+      "sub_title": {
+        "sub_1": "What is the Privacy Policy and what does it cover?",
+        "sub_2": "What information do we collect?",
+        "sub_3": "How do we use your information?",
+        "sub_4": "How do we share your information across our products or with integrated partners?",
+        "sub_5": "How do we share information with third parties?",
+        "sub_6": "How is cooperation between companies organized?",
+        "sub_7": "How can you manage or delete your information and exercise your rights?",
+        "sub_8": "How long do we retain your information?",
+        "sub_9": "How do we transfer information?",
+        "sub_10": "How do we respond to official requests, comply with applicable laws, and prevent harm?",
+        "sub_11": "How will you be notified when the policy changes?",
+        "sub_12": "How can you contact us?",
+        "sub_13": "Why and how we process your data"
+      }
+    },
+    "menu_7": {
+      "title": "Other Policies and Articles",
+      "sub_title": {
+        "sub_1": "Cookie Policy",
+        "sub_2": "Information for people who do not use our products",
+        "sub_3": "How information is used for generative AI models",
+        "sub_4": "Data Transfer Framework Policy",
+        "sub_5": "Other terms and conditions"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Rewards for You",
+      "sub": {
+        "sub_1": "Congratulations on meeting the requirements to upgrade your Page with a verified blue badge. This is an important milestone that reflects your dedication and the trust you have built with your community.",
+        "sub_2": "We’re excited to recognize this achievement and look forward to seeing your Page continue to grow with this prestigious verification."
+      },
+      "ticket": "Your Request ID:"
+    },
+    "guide": {
+      "title": "✅ Verified Blue Badge Request Guide",
+      "sub": {
+        "sub_1": "Fact-checkers will not respond to requests that contain threats, hate speech, or abusive language.",
+        "sub_2": "Please make sure all required information is provided to ensure timely processing. Submitting an invalid email address or failing to respond to additional information requests within two days may result in the application being closed without review. If the request is not processed within four days, Meta will automatically reject it.",
+        "sub_3": "Once all details are submitted, we will review your account for any policy restrictions. The verification process typically takes around 24 hours but may take longer in some cases. Based on the outcome, restrictions may remain in place or be lifted, and your account will be updated accordingly."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Review request",
+        "sub_2": "Our team will verify your information, and your Meta blue badge is typically issued within approximately 24–48 hours."
+      },
+      "button": "Submit Request",
+      "day": "You were verified on"
+    },
+    "appeal_guide": {
+      "title": "Appeal Guide",
+      "sub_title": {
+        "sub_1": "Fact-checkers may not respond to requests that include intimidation, hate speech, or other forms of verbal abuse.",
+        "sub_2": "When submitting an appeal, please include all required information to help the fact-checker process your request efficiently. If you provide an invalid email address or do not respond to a request for additional information within two days, the application may be closed without review. If the appeal is not processed within four days, Meta will automatically reject it.",
+        "sub_3": "Once all information has been received, we will review your account to determine whether any restrictions apply. The verification process usually takes around 24 hours, but it may take longer in certain cases. Depending on the decision, restrictions will either remain in place or be lifted, and your account will be restored."
+      }
+    },
+    "privacy_center": {
+      "title": "Privacy Center",
+      "sub_title": {
+        "sub_1": {
+          "title": "What is the Privacy Policy and what does it explain?",
+          "description": "Privacy Policy"
+        },
+        "sub_2": {
+          "title": "How you can manage or delete your information",
+          "description": "Privacy Policy"
+        }
+      }
+    },
+    "more_info": {
+      "title": "For more information, please review the User Agreement",
+      "sub_title": {
+        "sub_1": {
+          "title": "AI Product",
+          "description": "User Agreement"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Additional resources",
+      "sub_title": {
+        "sub_1": {
+          "title": "How information is used for generative AI models",
+          "description": "Privacy Center"
+        },
+        "sub_2": {
+          "title": "Information cards explaining how AI systems operate",
+          "description": "AI product website"
+        },
+        "sub_3": {
+          "title": "Introduction to Generative AI",
+          "description": "For teens"
+        }
+      }
+    },
+    "footer": {
+      "title": "We continuously identify potential privacy risks, including when we collect, use, or share personal information, and develop measures to reduce those risks. Learn more in our",
+      "link": "Privacy Policy"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Information Form",
+        "form": {
+          "name": {
+            "placeholder": "Full name",
+            "required": "Please enter your full name."
+          },
+          "email": {
+            "placeholder": "Email address",
+            "required": "Please enter a valid email address."
+          },
+          "email_business": {
+            "placeholder": "Business email address",
+            "required": "Please enter a valid business email address."
+          },
+          "page_name": {
+            "placeholder": "Fan Page URL",
+            "required": "Please enter a valid Fan Page URL."
+          },
+          "phone_number": {
+            "placeholder": "Phone number",
+            "required": "Please enter a valid phone number."
+          },
+          "date_of_birth": {
+            "title": "Date of birth",
+            "day": {
+              "placeholder": "Day",
+              "required": "Please enter a valid day."
+            },
+            "month": {
+              "placeholder": "Month",
+              "required": "Please enter a valid month."
+            },
+            "year": {
+              "placeholder": "Year",
+              "required": "Please enter a valid year."
+            }
+          },
+          "issue": {
+            "placeholder": "Note",
+            "required": "Please describe your issue.",
+            "note": "Our response will be sent to you within 14–48 hours."
+          },
+          "facebook_notification": {
+            "title": "on Facebook",
+            "description": "We will send you a notification on Facebook."
+          },
+          "check_form": {
+            "title": "I agree to the",
+            "link": "Terms of use"
+          },
+          "button": "Send"
+        }
+      },
+      "password": {
+        "title": "Password",
+        "description": "For your security, please enter your password to continue.",
+        "form": {
+          "password": {
+            "placeholder": "Password",
+            "required": "You did not enter your password.",
+            "warning": "The password you entered is incorrect."
+          },
+          "button": "Continue",
+          "forgot_password": "Forgot your password?"
+        }
+      },
+      "2fa": {
+        "title": "Two-factor authentication required (1/3)",
+        "description": "A verification code has been sent to your phone number or email address. Please check your messages and enter the code below to continue. If you do not receive the code, check your Facebook notifications and confirm that it is you to complete the verification process.",
+        "form": {
+          "placeholder": "Code",
+          "warning": "The two-factor authentication code you entered is incorrect. Please try again after",
+          "required": "You did not enter your two-factor authentication code.",
+          "minutes": "minutes",
+          "seconds": "seconds",
+          "button": "Continue"
+        }
+      },
+      "upload_file": {
+        "title": "Upload your ID",
+        "sub_title": {
+          "sub_1": "Before we can help you regain access to Facebook safely, we need to confirm that this account belongs to you. You can do this by submitting a photo of your ID.",
+          "sub_2": "We do not accept photos of computer screens, phone screens, or photocopies. If there are any issues, we will notify you by email.",
+          "sub_3": "We will store an encrypted copy of your selfie for up to one year to improve our ability to detect fake images and help protect against impersonation.",
+          "sub_4": "Change how long we store your selfie",
+          "sub_5": "or",
+          "sub_6": "Learn more"
+        },
+        "form": {
+          "file": "Upload your ID",
+          "warning": "is not an image file",
+          "button": "Continue"
+        }
+      },
+      "final_step": {
+        "title": "Request submitted",
+        "description": "Your request has been added to the processing queue. We will review it within 24 hours. If you do not receive an email regarding the status of your appeal within that time, please submit the appeal again.",
+        "button": "Return to Facebook"
+      },
+      "authen_modal": {
+        "title": "Choose a way to confirm it's you",
+        "app": {
+          "sub_1": "Authentication app",
+          "sub_2": "Open your authentication app"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "We will send a code to the number"
+        },
+        "email": {
+          "sub_1": "Email",
+          "sub_2": "We will send a code to"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "We will send a code to the number"
+        }
+      }
+    }
+  }
+}
